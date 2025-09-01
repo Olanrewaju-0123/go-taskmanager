@@ -1,0 +1,10 @@
+.git
+.gitignore
+README.md
+.env
+env.example
+frontend/
+docker-compose.yml
+Makefile
+*.md
+.DS_Store
