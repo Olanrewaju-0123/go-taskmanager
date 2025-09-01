@@ -34,11 +34,11 @@ migrate:
 
 # Start PostgreSQL with Docker
 docker-up:
-	docker-compose up -d
+	docker compose up -d
 
 # Stop PostgreSQL container
 docker-down:
-	docker-compose down
+	docker compose down
 
 # Install dependencies
 deps:
